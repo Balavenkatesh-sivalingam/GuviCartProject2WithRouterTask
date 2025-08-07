@@ -1,0 +1,1 @@
+export const Cart_Url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUpoyvh2M7LRyoF85GTQjPb8_fpCyaBKr5plh6C0IFEgm8g8KFaBdKtxnCgdFNzDKf8g&usqp=CAU"
