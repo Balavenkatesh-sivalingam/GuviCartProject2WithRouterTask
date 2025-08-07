@@ -2,7 +2,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import Header from "./Components/Header";
 import Body from "./Components/Body";
-import Error from "./error";
+import Error from "./Error";
 import Cart from "./Components/Cart";
 import About from "./Components/About"
 import Contact from "./Components/Contact"
